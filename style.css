@@ -1,0 +1,68 @@
+body {
+    background-color: #f0f1f3;
+    font-family: Georgia, serif;
+}
+
+.cartao {
+    width: 360px;
+    margin: 20px auto;
+    background-color: #0d325f;
+    text-align: center;
+}
+
+.topo {
+    padding-top: 30px;
+}
+
+.foto {
+    width: 240px;
+    height: 240px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 500px;
+    border: 6px solid #e5e9ee;
+}
+
+.faixa {
+    background-color: #032b1a;
+    color: rgb(244, 241, 241);
+    border-radius: 180px 180px 0 0;
+    margin-top: -110px;
+    padding: 130px 20px 30px 20px;
+}
+
+.faixa h1 {
+    font-size: 32px;
+    margin-bottom: 5px;
+}
+
+.cargo {
+    font-size: 13px;
+    letter-spacing: 3px;
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+
+.linha-icones {
+    margin-top: 0;
+    margin-bottom: 55px;
+}
+
+.icone {
+    font-size: 40px;
+    background-color: white;
+    padding: 18px 20px;
+    border-radius: 500px;
+    text-decoration: none;
+    margin: 0 25px;
+}
+
+.aviso {
+    background-color: #e5e9ee;
+    color: #0d2b4e;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 12px 10px;
+    border-radius: 30px;
+    margin: 20px 0 0 0;
+}
